@@ -23,7 +23,7 @@ Hey there! I'm Ayushi, a CSE student with a knack for solving problems and creat
 
 ### 🔗 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://github.com/mitraayushi)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-mitra-20a9a5244/)
 - [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ayushi_mitraa)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushimitra22@gmail.com)
 
