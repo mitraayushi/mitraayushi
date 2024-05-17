@@ -6,7 +6,7 @@
 
 ### 👋 About Me
 
-Hey there! I'm Ayushi, a CSE student with a knack for solving problems and creating innovative solutions. Skilled in Python, C++, and web dev, I'm currently diving into the world of AI/ML. Always up for a challenge and eager to learn!
+I'm Ayushi Mitra, a BTech CSE student passionate about becoming a well-versed programmer. Skilled in Python, C++, and web dev, I'm currently diving into the world of AI/ML. Always up for a challenge and eager to learn!
 
 ---
 
