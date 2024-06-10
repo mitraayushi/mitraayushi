@@ -21,7 +21,6 @@ I'm Ayushi Mitra, a BTech CSE student passionate about becoming a well-versed pr
 
 
 
-
 ### 🔗 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-mitra-20a9a5244/)
