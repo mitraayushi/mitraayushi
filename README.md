@@ -7,7 +7,6 @@
 
 I'm Ayushi Mitra, a BTech CSE student passionate about becoming a well-versed programmer. Skilled in Python, C++, and web dev, I'm currently diving into the world of AI/ML. Always up for a challenge and eager to learn!
 
----
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -54,21 +53,16 @@ I'm Ayushi Mitra, a BTech CSE student passionate about becoming a well-versed pr
   </a>
 </p>
 
-
-
-### 🔗 Connect with Me
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-mitra-20a9a5244/)
-- [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ayushi_mitraa)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushimitra22@gmail.com)
-
----
-
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ayushi-mitra-20a9a5244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitaayushi" height="30" width="40" /></a>
+  <a href="https://x.com/ayushi_mitraa" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="mitaayushi" height="30" width="40" /></a>
+  <a href="mailto:ayushimitra22@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a>
+</p>
 
 ### 💬 Let's Collaborate!
 
 I'm always excited to learn from others and contribute to meaningful projects. Let's connect and explore the possibilities together!
 
----
+
 
