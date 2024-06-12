@@ -1,8 +1,7 @@
-# Ayushi Mitra
-
-**Aspiring Software Engineer | B.Tech in CSE | AI/ML Enthusiast**
-
----
+<h1 align="center">Hi 👋, I'm Ayushi Mitra</h1>
+<h3 align="center">Aspiring Software Engineer | B.Tech in CSE | AI/ML Enthusiast</h3>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitraayushi" alt="mitraayushi" /></a> </p>
 
 ### 👋 About Me
 
